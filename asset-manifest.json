@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SimplyShopping/static/css/main.7dfdcb25.css",
+    "main.js": "/SimplyShopping/static/js/main.aa06e685.js",
+    "static/media/cart.jpg": "/SimplyShopping/static/media/cart.3bc1a366dc64945e4738.jpg",
+    "index.html": "/SimplyShopping/index.html",
+    "main.7dfdcb25.css.map": "/SimplyShopping/static/css/main.7dfdcb25.css.map",
+    "main.aa06e685.js.map": "/SimplyShopping/static/js/main.aa06e685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dfdcb25.css",
+    "static/js/main.aa06e685.js"
+  ]
+}
